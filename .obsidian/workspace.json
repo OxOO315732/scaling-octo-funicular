@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f91e1ee55e0ca0ed",
+        "id": "751fbe524084b8b2",
         "type": "tabs",
         "children": [
           {
-            "id": "490a8e7fc1b44a18",
+            "id": "78b1fe2cdf24cac8",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -79,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "0802c192ab589f76",
@@ -186,14 +185,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "490a8e7fc1b44a18",
+  "active": "60dd8ea19335be92",
   "lastOpenFiles": [
-    "TryHackMe.md",
-    "TryHackMe/Careers in Cyber.md",
-    "Books/Inside a Computer System.md",
-    "Untitled.md",
+    "Books/TSCM/ST 500 PIRANHA User Manual.pdf",
+    "Books/TSCM/nr_2000.pdf",
     "Books/TSCM/k18.pdf",
     "Books/TSCM/bug hunter pro.pdf",
+    "Books/TSCM/руководство по эксплуатации.pdf",
+    "Books/TSCM/st_301_spider_user_manual (1).pdf",
+    "Books/TSCM/ST 500 Пиранья_Руководство по эксплуатации.pdf",
+    "TryHackMe.md",
+    "TryHackMe/Careers in Cyber.md",
+    "TryHackMe/Inside a Computer System.md",
+    "Untitled.md",
     "TryHackMe",
     "TryHackMe/Defensive Security Intro.md",
     "TryHackMe/Offensive Security Intro.md"
