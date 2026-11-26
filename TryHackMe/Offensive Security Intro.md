@@ -1,0 +1,1 @@
+Offensive Security is about thinking like an attacker to find weaknesses before real hackers do. The opposite, defensive security, is about keeping hackers out and acting when it goes wrong.
