@@ -11,10 +11,14 @@
             "id": "78b1fe2cdf24cac8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "TryHackMe.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "TryHackMe"
             }
           }
         ]
@@ -185,8 +189,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "60dd8ea19335be92",
+  "active": "78b1fe2cdf24cac8",
   "lastOpenFiles": [
+    "TryHackMe/Client-Server Basics.md",
+    "TryHackMe.md",
+    "TryHackMe/Computer Types.md",
     "Books/TSCM/ST 500 PIRANHA User Manual.pdf",
     "Books/TSCM/nr_2000.pdf",
     "Books/TSCM/k18.pdf",
@@ -194,7 +201,6 @@
     "Books/TSCM/руководство по эксплуатации.pdf",
     "Books/TSCM/st_301_spider_user_manual (1).pdf",
     "Books/TSCM/ST 500 Пиранья_Руководство по эксплуатации.pdf",
-    "TryHackMe.md",
     "TryHackMe/Careers in Cyber.md",
     "TryHackMe/Inside a Computer System.md",
     "Untitled.md",
