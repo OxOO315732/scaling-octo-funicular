@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "751fbe524084b8b2",
+        "id": "0b2efdb6243b56d9",
         "type": "tabs",
         "children": [
           {
-            "id": "78b1fe2cdf24cac8",
+            "id": "28daf83700bf0bbb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TryHackMe.md",
+                "file": "Cloud Computing Fundamentals.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TryHackMe"
+              "title": "Cloud Computing Fundamentals"
             }
           }
         ]
@@ -189,11 +189,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "78b1fe2cdf24cac8",
+  "active": "28daf83700bf0bbb",
   "lastOpenFiles": [
-    "TryHackMe/Client-Server Basics.md",
     "TryHackMe.md",
+    "Cloud Computing Fundamentals.md",
+    "TryHackMe/Offensive Security Intro.md",
     "TryHackMe/Computer Types.md",
+    "TryHackMe/Client-Server Basics.md",
+    "TryHackMe/Virtualisation Basics.md",
     "Books/TSCM/ST 500 PIRANHA User Manual.pdf",
     "Books/TSCM/nr_2000.pdf",
     "Books/TSCM/k18.pdf",
@@ -205,7 +208,6 @@
     "TryHackMe/Inside a Computer System.md",
     "Untitled.md",
     "TryHackMe",
-    "TryHackMe/Defensive Security Intro.md",
-    "TryHackMe/Offensive Security Intro.md"
+    "TryHackMe/Defensive Security Intro.md"
   ]
 }

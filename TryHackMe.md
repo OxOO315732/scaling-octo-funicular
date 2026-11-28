@@ -7,3 +7,4 @@ Pre Security
 * [[Computer Types]]
 * [[Client-Server Basics]]
 * [[Virtualisation Basics]]
+* [[Cloud Computing Fundamentals]]
